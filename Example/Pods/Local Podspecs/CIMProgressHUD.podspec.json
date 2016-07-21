@@ -1,9 +1,9 @@
 {
   "name": "CIMProgressHUD",
   "version": "0.1.0",
-  "summary": "A short description of CIMProgressHUD.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/CIMProgressHUD",
+  "summary": "This is my test for cocoapods",
+  "description": "My first Test to use cocoapods\n#TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iCalabash/CIMProgressHUD",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,11 @@
     "iCalabash": "136085453@qq.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/CIMProgressHUD.git",
+    "git": "https://github.com/iCalabash/CIMProgressHUD.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "CIMProgressHUD/Classes/**/*"
+  "source_files": "CIMProgressHUD/Classes/*"
 }
