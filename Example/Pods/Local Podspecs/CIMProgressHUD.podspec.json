@@ -1,0 +1,22 @@
+{
+  "name": "CIMProgressHUD",
+  "version": "0.1.0",
+  "summary": "A short description of CIMProgressHUD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/CIMProgressHUD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iCalabash": "136085453@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/CIMProgressHUD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CIMProgressHUD/Classes/**/*"
+}

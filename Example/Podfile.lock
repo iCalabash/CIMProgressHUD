@@ -1,0 +1,16 @@
+PODS:
+  - CIMProgressHUD (0.1.0)
+
+DEPENDENCIES:
+  - CIMProgressHUD (from `../`)
+
+EXTERNAL SOURCES:
+  CIMProgressHUD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CIMProgressHUD: 55d6f9f224b6824a4d7d7c189c7c5d7d1eaf4899
+
+PODFILE CHECKSUM: 91c79accec37cbc405989d8c5ac871e1726bd4ea
+
+COCOAPODS: 1.0.1

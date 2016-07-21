@@ -1,0 +1,6 @@
+framework module CIMProgressHUD {
+  umbrella header "CIMProgressHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}
