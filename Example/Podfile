@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CIMProgressHUD_Tests' do
+  pod 'CIMProgressHUD', :path => '../'
+  
+  
+end
