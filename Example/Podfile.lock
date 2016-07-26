@@ -1,5 +1,5 @@
 PODS:
-  - CIMProgressHUD (0.1.0)
+  - CIMProgressHUD (0.2.0)
 
 DEPENDENCIES:
   - CIMProgressHUD (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CIMProgressHUD: a7a5dbe1af71fa2f68b3c0078b486a305a9afb09
+  CIMProgressHUD: 7981ee447a5378cb55382bcd6ef2a14da1e4a008
 
 PODFILE CHECKSUM: 91c79accec37cbc405989d8c5ac871e1726bd4ea
 
